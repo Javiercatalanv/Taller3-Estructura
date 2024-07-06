@@ -3,7 +3,7 @@
 #include "NodeAbb.h"
 using namespace std;
 
-
+/*
 TreeAbb::TreeAbb() : root(nullptr) {}
 
 void TreeAbb::insert(Product product) {
@@ -31,4 +31,4 @@ void TreeAbb::inOrder(NodeAbb* node) const {
         inOrder(node->right);
     }
 }
-
+*/
